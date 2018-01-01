@@ -1,4 +1,4 @@
-auto: true
+
 
 markdown: kramdown
 
@@ -9,6 +9,6 @@ permalink: /:title
 name: “Candyman's site”
 title: Candyman's site
 description: Everything about Candyman.
-url: http://a774032767.github.io
+url: localhost:4000
 feed: /atom.xml
 author_info: <a href="http://a774032767.github.io/">Candyman</a>
