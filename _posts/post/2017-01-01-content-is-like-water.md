@@ -2,10 +2,9 @@
 layout:     post
 title:      从响应式设计实践切入
 category: post
-description: 从响应式设计实践切入
+description: content is like water
 ---
 
-* 汉腾老师的网页设计与制作开课了
 
 第一节课的标题是：
 从响应式设计实践切入
